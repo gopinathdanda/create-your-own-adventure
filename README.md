@@ -4,6 +4,6 @@ Inspired by create you own adventure books, this is a personal project of mine -
 
 Concept is similar to what is done on Udacity - Git and Github course: using Markdown links. For example:
 
-<pre>Click [here](http://www.github.com) to go to Gihub website</pre>
+<pre>Click [here](http://www.github.com) to go to Github website</pre>
 
 where square brackets is text and round brackets is the link.
