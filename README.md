@@ -7,3 +7,7 @@ Concept is similar to what is done on Udacity - Git and Github course: using Mar
 <pre>Click [here](http://www.github.com) to go to Github website</pre>
 
 where square brackets is text and round brackets is the link.
+
+<h2>Start</h2>
+
+Start your story [here](start.md)
