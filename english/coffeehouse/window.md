@@ -7,3 +7,5 @@ It looks like any other summer afternoon to you. You wonder when it will rain.
 [Look at the TV on the far end of the coffehouse wall](tv.md)
 
 [Get back to your notepad](notepad.md)
+
+[Go out for a walk](../outside/walk.md)
